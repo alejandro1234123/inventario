@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';
-$db   = 'inventarioconcejomunicipal';
+$db   = 'inventario_concejo_municpal';
 $user = 'root';
 $pass = '';
 
